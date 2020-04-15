@@ -1,4 +1,4 @@
-FROM gitpod/workspace-MySql
+FROM gitpod/workspace-mysql
 USER root
 
 # Heroku CLI
